@@ -4,7 +4,7 @@ Using a Perceptron to predict credit card fraud.
 
 ## Medium Article
 
-The Medium article corresponding to this code can be found at <link>.
+The Medium article corresponding to this code is not yet published.
 
 ## Dataset
 
