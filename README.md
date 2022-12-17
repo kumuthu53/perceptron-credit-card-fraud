@@ -1,14 +1,14 @@
 # perceptron-credit-card-fraud
 
-Using a Perceptron to detect credit card fraud.
+Using a Perceptron to predict credit card fraud.
 
 ## Medium Article
 
-The Medium article corresponding to this code can be found at <link>
+The Medium article corresponding to this code can be found at <link>.
 
 ## Dataset
 
-The dataset used can be found at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+The dataset used can be found at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
 
 ## Running the Code
 
