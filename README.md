@@ -4,7 +4,7 @@ Using a Perceptron to predict credit card fraud.
 
 ## Medium Article
 
-The Medium article corresponding to this code is not yet published.
+The Medium article corresponding to this code can be found at https://medium.com/@kumuthu53/the-perceptron-a-lone-neuron-df949a6a632c.
 
 ## Dataset
 
