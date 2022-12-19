@@ -14,5 +14,5 @@ The dataset used can be found at https://www.kaggle.com/datasets/mlg-ulb/creditc
 
 * Clone this repository and navigate into it.
 * The Python version used is 3.10.
-* Install all the packages in 'requirements.txt' using pip.
+* Install all the packages in 'requirements.txt' (`pip install -r requirements.txt`)
 * Open 'code.ipynb' using Jupyter Notebook.
